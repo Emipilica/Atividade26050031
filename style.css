@@ -1,0 +1,12 @@
+header {
+    color: #354024;
+}
+main {
+    background-color: #889d63;
+}
+h1 {
+    text-align: center; color: #4c3d19;
+}
+nav , a {
+    text-decoration: none; text-align: center; color: #4c3d19;
+}
